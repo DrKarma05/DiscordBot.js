@@ -18,3 +18,6 @@ A Discord bot designed for managing GTPS (Growtopia Private Server) functionalit
    ```bash
    git clone https://github.com/yourusername/gtps-discord-bot.git
    cd gtps-discord-bot
+
+
+Please dont remove the credit :)
