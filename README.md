@@ -1,6 +1,6 @@
 # GTPS Discord Bot
 
-A Discord bot designed for managing GTPS (Growtopia Private Server) functionalities, providing users with commands to enhance their gaming experience.
+A Discord bot designed for managing GTPS (Growtopia Private Server) functionalities, providing users with commands to enhance their server experience.
 
 ## Table of Contents
 - [Features](#features)
