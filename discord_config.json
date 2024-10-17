@@ -1,0 +1,11 @@
+{
+    "TOKEN": "Your discord bot TOKEN",
+    "GUILD_ID": "Your Server ID",
+    "CLIENT_ID": "Your discord bot ID",
+    "Tumbnail_url": "Your Embed thumbnail Link",
+    "footer_url": "Your Embed footer Link",
+    "channel_recover": "Your Discord Channel Account Menu ID",
+    "bot_channel": "Your Discord bot Channel ID",
+    "user_ID": "Discord server owner ID",
+    "whitelist_id": "Discord server Whitelisted role ID"
+}

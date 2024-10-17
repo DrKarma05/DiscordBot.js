@@ -1,0 +1,8 @@
+{
+    "prefix": "!Karma",
+    "server_name": "Your Server Name",
+    "player": "Path to your server player folder",
+    "world": "Path to your server world folder",
+    "guild": "Path to your server guild folder"
+  }
+  
