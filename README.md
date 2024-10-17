@@ -5,10 +5,6 @@ A Discord bot designed for managing GTPS (Growtopia Private Server) functionalit
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Manage player accounts
